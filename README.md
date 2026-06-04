@@ -2,7 +2,7 @@
   <h1>Topological Convergence Router</h1>
   <p><b>State-Space Graph Scanner & Distributed Execution Engine</b></p>
   
-  [![CI](https://github.com/mahimalam/topological-convergence-router/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/topological-convergence-router/actions/workflows/ci.yml)
+  [![CI](https://github.com/mahimalam/ensemble-forecast-scanner/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/ensemble-forecast-scanner/actions/workflows/ci.yml)
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![Concurrency](https://img.shields.io/badge/Concurrency-AsyncIO-green?style=for-the-badge)](#)
   [![Algorithms](https://img.shields.io/badge/Algorithms-Graph_Theory-orange?style=for-the-badge)](#)
