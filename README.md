@@ -52,7 +52,7 @@ The heart of the system is a continuous evaluation loop that parses decentralize
 - **`late_state_scanner.py`**: A specialized sub-routine designed to evaluate graphs that are nearing their final terminal states, where velocity and volatility are highest.
 
 ### 2. The Vector Compiler (`/models`)
-- **`convergence_opportunity.py`**: A highly optimized `dataclass` structure that encapsulates the mathematical proof of a topological divergence. It defines the exact multi-leg path required to resolve the inconsistency, prioritizing operations based on computational efficiency and capital requirements.
+- **`convergence_opportunity.py`**: A highly optimized `dataclass` structure that encapsulates the mathematical proof of a topological divergence. It defines the exact multi-leg path required to resolve the inconsistency, prioritizing operations based on computational efficiency and resource requirements.
 
 ### 3. The Asynchronous Resolver (`/execution`)
 - **`resolver.py`**: Deploys the calculated resolution vectors to the external network using `asyncio` primitives. It ensures that all legs of a topological resolution are executed as closely to simultaneously as physically possible, minimizing exposure to partial state shifts.
