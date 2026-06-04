@@ -2,6 +2,7 @@
   <h1>Topological Convergence Router</h1>
   <p><b>State-Space Graph Scanner & Distributed Execution Engine</b></p>
   
+  [![CI](https://github.com/mahimalam/topological-convergence-router/actions/workflows/ci.yml/badge.svg)](https://github.com/mahimalam/topological-convergence-router/actions/workflows/ci.yml)
   [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
   [![Concurrency](https://img.shields.io/badge/Concurrency-AsyncIO-green?style=for-the-badge)](#)
   [![Algorithms](https://img.shields.io/badge/Algorithms-Graph_Theory-orange?style=for-the-badge)](#)
@@ -82,12 +83,3 @@ pip install -r requirements.txt
 python main.py --mode multi_node --log-level INFO
 ```
 
----
-
-### 🔐 Security & Intellectual Property Notice
-*This repository serves as a professional portfolio demonstration of graph-theory applications and high-performance computing.*
-
-To protect proprietary algorithms:
-- The exact algorithms for calculating topological capacity limits and `[PROPRIETARY_EXECUTION_LOGIC_REDACTED]` have been stripped.
-- Sensitive authentication payloads, API keys, and EVM integration details have been scrubbed.
-- All structural contexts referring to financial markets, order books, or specific consensus platforms have been abstracted to comply with regulatory requirements.
